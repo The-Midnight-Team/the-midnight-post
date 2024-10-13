@@ -35,21 +35,16 @@ article.post-view__article .article__content p {
 }
 article.post-view__article .article__content h1,
 article.post-view__article .article__content h2 {
-  font-size: 3.4rem;
-  line-height: 4.4rem;
-}
-article.post-view__article .article__content h3 {
   font-size: 2.8rem;
   line-height: 3.6rem;
 }
-article.post-view__article .article__content h4,
-article.post-view__article .article__content h5 {
+article.post-view__article .article__content h3 {
   font-size: 2.2rem;
   line-height: 3rem;
 }
 article.post-view__article .article__content h6 {
-  font-size: 1.8rem;
-  line-height: 2.6rem;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 article.post-view__article .article__content p,
 article.post-view__article .article__content li,
