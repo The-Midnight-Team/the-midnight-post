@@ -42,6 +42,11 @@ article.post-view__article .article__content h3 {
   font-size: 2.2rem;
   line-height: 3rem;
 }
+article.post-view__article .article__content h4,
+article.post-view__article .article__content h5 {
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+}
 article.post-view__article .article__content h6 {
   font-size: 1.6rem;
   line-height: 2.4rem;
