@@ -6,7 +6,7 @@
   <link href="https://post.midnight.school/atom.xml" rel="self"/>
   
   <link href="https://post.midnight.school/"/>
-  <updated>2025-01-08T08:50:28.406Z</updated>
+  <updated>2025-03-21T07:03:42.066Z</updated>
   <id>https://post.midnight.school/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Midnight Hunt 1.0 状态更新</title>
+    <link href="https://post.midnight.school/2025/03/The-Midnight-Hunt-1-0-%E7%8A%B6%E6%80%81%E6%9B%B4%E6%96%B0/"/>
+    <id>https://post.midnight.school/2025/03/The-Midnight-Hunt-1-0-%E7%8A%B6%E6%80%81%E6%9B%B4%E6%96%B0/</id>
+    <published>2025-03-21T06:22:52.000Z</published>
+    <updated>2025-03-21T07:03:42.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好呀！有一段时间没有更新动态了，于是我们决定和大家透露一些最近的情况。</p><span id="more"></span><h2 id="出题进度"><a href="#出题进度" class="headerlink" title="出题进度"></a>出题进度</h2><p>截至 2025 年 3 月 21 日，The Midnight Hunt 1.0 的出题进度约为 55.0%。这个数字是用已出题量除以设计题量（不含 meta）得到的。事实上已经有一些朋友猜出我们的总题量了，不过暂且还是再让我们卖个关子（</p><p>我们在 2 月邀请了 inequality 和 KevinTheMH 二位参与一轮内测，测试了目前已出好的所有小题。二位老师对这些题目提出了非常丰富和非常富有建设性的指导意见，发现了其中相当多的缺陷和问题。在此对二位老师表示由衷的感谢。</p><blockquote><p><img src="/2025/03/The-Midnight-Hunt-1-0-%E7%8A%B6%E6%80%81%E6%9B%B4%E6%96%B0/Kevin.png" alt="这能看出来有鬼了.jpg"><br><img src="/2025/03/The-Midnight-Hunt-1-0-%E7%8A%B6%E6%80%81%E6%9B%B4%E6%96%B0/inequality.png" alt="害怕.jpg"></p></blockquote><p>就目前而言，内测后，我们击落了不少题目，还有很多题目等待大修和小修，此外还有很多没有出完的题目。我们正在努力把题修好，把题出完（</p><h2 id="框架进度"><a href="#框架进度" class="headerlink" title="框架进度"></a>框架进度</h2><p>和出题同步的，是 The Midnight Hunt 的框架搭建。经过我们的一番考察，我们发现现有的 puzzle hunt 框架都有一些这样那样的问题：</p><ul><li><a href="https://github.com/galacticpuzzlehunt/gph-site">gph-site</a> 及其分支 <a href="https://github.com/teammatehunt/tph-site">tph-site</a> 需要做额外的本地化工作，而且其系统设计为一个队伍共享一个账号，我们在这方面有所顾虑；</li><li><a href="https://github.com/cipherpuzzles">CCXC Engine</a> 使用的是较老的 .NET 版本，且部分组件的实现逻辑对我们而言略有一些问题；</li><li><a href="https://github.com/PKU-GeekGame/guiding-star">Guiding Star</a> 主要面向 CTF 开发，有很多 Puzzle Hunt 用不到的功能。</li></ul><p>最终我们（主要是 <a href="https://benpigchu.com/">BPC</a>）决定：造一套新轮子。也就是说：The Midnight Hunt 1.0 会使用我们自行开发的系统承载。目前，技术组（指 BPC）已经开始了系统开发的工作。</p><h2 id="我们的预期"><a href="#我们的预期" class="headerlink" title="我们的预期"></a>我们的预期</h2><p>开春后，由于出题组的成员不约而同地忙了起来，出题的进度有所放缓。我们原计划瞄准的五一档期现在看来是非常不可能赶上的。</p><blockquote><p><img src="/2025/03/The-Midnight-Hunt-1-0-%E7%8A%B6%E6%80%81%E6%9B%B4%E6%96%B0/home.png" alt="思乡之情.jpg"></p></blockquote><p>现在而言，我们的预期是能 2025 年下半年的某个时候和大家见面。我们希望对各个题目进行进一步的打磨，尽力让大家有一个比较快乐的解谜体验。</p><hr><p>总而言之，期待和大家的相见！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;大家好呀！有一段时间没有更新动态了，于是我们决定和大家透露一些最近的情况。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="The Midnight Hunt" scheme="https://post.midnight.school/categories/The-Midnight-Hunt/"/>
+    
+    <category term="The Midnight Hunt 1.0" scheme="https://post.midnight.school/categories/The-Midnight-Hunt/The-Midnight-Hunt-1-0/"/>
+    
+    
+    <category term="预告" scheme="https://post.midnight.school/tags/%E9%A2%84%E5%91%8A/"/>
+    
+    <category term="说明" scheme="https://post.midnight.school/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>方圆谜题汇总（2024）</title>
@@ -100,9 +125,9 @@
     <category term="The Midnight Hunt (in RIA)" scheme="https://post.midnight.school/categories/The-Midnight-Hunt-in-RIA/"/>
     
     
-    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
-    
     <category term="预告" scheme="https://post.midnight.school/tags/%E9%A2%84%E5%91%8A/"/>
+    
+    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
     
   </entry>
   
@@ -123,9 +148,9 @@
     <category term="The Midnight Hunt (in RIA)" scheme="https://post.midnight.school/categories/The-Midnight-Hunt-in-RIA/"/>
     
     
-    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
-    
     <category term="出题记录" scheme="https://post.midnight.school/tags/%E5%87%BA%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
     
   </entry>
   
@@ -147,11 +172,11 @@
     <category term="The Midnight Hunt (in RIA)" scheme="https://post.midnight.school/categories/The-Midnight-Hunt-in-RIA/"/>
     
     
+    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
+    
     <category term="题目存档" scheme="https://post.midnight.school/tags/%E9%A2%98%E7%9B%AE%E5%AD%98%E6%A1%A3/"/>
     
     <category term="解析" scheme="https://post.midnight.school/tags/%E8%A7%A3%E6%9E%90/"/>
-    
-    <category term="Minecraft" scheme="https://post.midnight.school/tags/Minecraft/"/>
     
   </entry>
   
